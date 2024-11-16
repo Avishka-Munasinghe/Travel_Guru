@@ -24,6 +24,35 @@ A web application that helps users explore tourist attractions, hotels, and rest
 
 ### **Screenshots**
 
+### Screenshots
+
+#### Screenshot 1
+![Screenshot 1](screenshots/Screenshot%202024-03-02%20161724.png)
+
+#### Screenshot 2
+![Screenshot 2](screenshots/Screenshot%202024-04-25%20005807.png)
+
+#### Screenshot 3
+![Screenshot 3](screenshots/Screenshot%202024-03-19%20011046.png)
+
+#### Screenshot 4
+![Screenshot 4](screenshots/Screenshot%202024-03-19%20143051.png)
+
+#### Screenshot 5
+![Screenshot 5](screenshots/Screenshot%202024-03-19%20143318.png)
+
+#### Screenshot 6
+![Screenshot 6](screenshots/Screenshot%202024-03-19%20143408.png)
+
+#### Screenshot 7
+![Screenshot 7](screenshots/Screenshot%202024-03-20%20021144.png)
+
+#### Screenshot 8
+![Screenshot 8](screenshots/Screenshot%202024-04-10%20190031.png)
+
+#### Screenshot 9
+![Screenshot 9](screenshots/Screenshot%202024-04-25%20004828.png)
+
 
 ---
 
