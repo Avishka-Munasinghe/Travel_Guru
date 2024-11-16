@@ -24,7 +24,6 @@ A web application that helps users explore tourist attractions, hotels, and rest
 
 ### **Screenshots**
 
-### Screenshots
 
 #### Screenshot 1
 ![Screenshot 1](screenshots/Screenshot%202024-03-02%20161724.png)
@@ -49,10 +48,6 @@ A web application that helps users explore tourist attractions, hotels, and rest
 
 #### Screenshot 8
 ![Screenshot 8](screenshots/Screenshot%202024-04-10%20190031.png)
-
-#### Screenshot 9
-![Screenshot 9](screenshots/Screenshot%202024-04-25%20004828.png)
-
 
 ---
 
